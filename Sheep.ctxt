@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Sheep
+comment0.text=\r\n\ A\ simple\ model\ of\ a\ sheep.\r\n\ Sheep\ age,\ move,\ breed,\ and\ die.\r\n\ \r\n\ @author\ David\ J.\ Barnes\ and\ Michael\ K\u00F6lling\r\n\ \ \ \ \ \ \ \ \ \ extended\ by\ Kamil\ Kuzara\ and\ Hedi\ Gharbi\r\n\ @version\ 2019.02.22\r\n
+comment1.params=
+comment1.target=int\ getReproductionAge()
+comment1.text=\r\n\ This\ method\ returns\ the\ minimum\ age\ for\ the\ sheep\ to\ be\ able\ to\ breed.\r\n
+comment2.params=
+comment2.target=int\ getMaxAge()
+comment2.text=\r\n\ This\ method\ returns\ the\ maximum\ age\ the\ sheep\ can\ live.\r\n
+comment3.params=
+comment3.target=double\ getReproductionProbability()
+comment3.text=\r\n\ This\ method\ returns\ the\ likelihood\ of\ the\ sheep's\ reproduction.\r\n
+comment4.params=
+comment4.target=int\ getMaxReproductionSize()
+comment4.text=\r\n\ This\ method\ returns\ the\ maximum\ number\ of\ births\ that\ the\ sheep\ can\ give.\r\n
+comment5.params=
+comment5.target=int\ getFoodValue()
+comment5.text=\r\n\ This\ method\ returns\ the\ number\ of\ steps\ left\ before\ the\ sheep\ has\ to\ to\ eat\ again.\r\n
+comment6.params=animalsAround
+comment6.target=java.util.List\ getSameSpecies(java.util.List)
+comment6.text=\r\n\ This\ method\ checks\ if\ the\ animals\ around\ are\ of\ the\ same\ species\ as\ the\ sheep\ \:\ \r\n\ if\ they\ are,\ they\ are\ added\ to\ the\ list\ "animalsAround".\ In\ fact,\ this\ method\ \r\n\ is\ used\ to\ verify\ one\ condition\ for\ 2\ animals\ to\ breed.\r\n
+numComments=7

@@ -1,0 +1,4 @@
+#BlueJ class context
+comment0.target=Prey
+comment0.text=\r\n\ Abstract\ class\ Prey\ \r\n\ This\ class\ regroups\ the\ animals\ that\ share\ the\ same\ features\ \:\ the\ animals\ that\ can\ only\ eat\ plants\ and\ \r\n\ that\ can\ be\ eaten\ by\ the\ predators.\r\n\ @author\ Kamil\ Kuzara\ and\ Hedi\ Gharbi\r\n\ @version\ 2019.02.22.\r\n
+numComments=1

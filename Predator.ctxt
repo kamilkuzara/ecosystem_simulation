@@ -1,0 +1,4 @@
+#BlueJ class context
+comment0.target=Predator
+comment0.text=\r\n\ Abstract\ class\ Predator\r\n\ This\ class\ regroups\ the\ animals\ that\ share\ the\ same\ features\ \:\ the\ animals\ that\ can\ eat\ the\ prey\ ones\ and\ \r\n\ that\ cannot\ be\ eaten.\ \r\n\ @author\ Kamil\ Kuzara\ and\ Hedi\ Gharbi\r\n\ @version\ 2019.02.22.\r\n
+numComments=1
